@@ -343,8 +343,8 @@ Official Twitter - https://twitter.com/eoxcommerce
  * __Account Contract Address:__ ??
  * __Symbol:__ IQ
  * __Ratio:__ 5.1 for 1
- * __Airdrop Supply:__ TBD
- * __Total Supply:__ TBD
+ * __Airdrop Supply:__ 5.1 billion
+ * __Total Supply:__ 10 billion
  * __Snapshot:__ June 2018
  * __Airdrop Started:__ No
  * __Registration:__ No
